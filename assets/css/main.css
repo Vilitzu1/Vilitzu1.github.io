@@ -2822,7 +2822,7 @@ input, select, textarea {
 
 	#main > section {
 		border-top: solid 6px #f4f4f4;
-		background-color: bisque;
+		
 	}
 
 		#main > section > .container {
@@ -2831,7 +2831,7 @@ input, select, textarea {
 
 		#main > section:first-child {
 			border-top: 0;
-			background-color: aliceblue;
+			
 		}
 
 /* Footer */
