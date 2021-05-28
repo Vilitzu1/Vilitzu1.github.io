@@ -1,11 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
-/*
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2826,6 +2822,7 @@ input, select, textarea {
 
 	#main > section {
 		border-top: solid 6px #f4f4f4;
+		background-color: bisque;
 	}
 
 		#main > section > .container {
@@ -2834,6 +2831,7 @@ input, select, textarea {
 
 		#main > section:first-child {
 			border-top: 0;
+			background-color: aliceblue;
 		}
 
 /* Footer */
