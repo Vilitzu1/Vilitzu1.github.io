@@ -2822,11 +2822,13 @@ input, select, textarea {
 
 	#main > section {
 		border-top: solid 6px #f4f4f4;
+		background: #f0f8ff;
 		
 	}
 
 		#main > section > .container {
 			padding: 6em 0 4em 0;
+			
 		}
 
 		#main > section:first-child {
